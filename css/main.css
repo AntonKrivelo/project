@@ -1,0 +1,64 @@
+.menu_page{
+    min-height: 800px;
+    padding: 0px 0px 45px 0px;
+    background: url(../img/bg1.jpg) center center/cover no-repeat;
+}
+.title{
+    color: rgba(255, 255, 255, 0.479);
+    font-size: 35px;
+    font-weight: 700;
+}
+.bitcoin{
+    padding-top: 25px;
+    
+}
+
+.stable {
+    font-size: 52px;
+    color: #9d9d9d;
+    transform: translateY(800%);
+    font-weight: 700;
+    padding-left: 112px;
+}
+    .btc{
+    width: 145px;
+    height: 120px;
+    padding-left: 21px;
+    margin-left: 90px;
+    margin-top: 1px;
+}
+.descr_bitcoin{
+    font-size: 26px;
+    color: rgba(255, 217, 0, 0.429);
+    font-weight: 700;
+    padding-top: 25px;
+}
+.ethereum{
+    transform: translateY(-83%);
+    padding-top: 87px;
+}
+.descr_eth{
+    font-size: 26px;
+    color: rgba(255, 217, 0, 0.429);
+    font-weight: 700;
+    padding-top: 25px;
+}
+.eth{
+    width: 145px;
+    height: 120px;
+    margin-left: 100px;
+}
+
+
+.usdt_img{
+    width: 130px;
+    height: 120px;
+    margin-left: 78px;
+
+}
+.descr_udst{
+    font-size: 26px;
+    color: rgba(255, 217, 0, 0.429);
+    font-weight: 700;
+    padding-top: 25px;
+}
